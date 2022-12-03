@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola 👋, Soy Silvia Salazar</h1>
 <h3 align="center">Una Apasionada Full Stack Developer</h3>
-<p> Con habilidades de Full Stack Developer , conocimientos de HTML, CSS, JavaScript , React, Redux , Node.js, Express, Sequelize, PostgreSQL adquiridos en el bootcamp de Soy Henry, en constante actualización y aprendizaje. .</p>
+<p> Con habilidades de Full Stack Developer , conocimientos de HTML, CSS, JavaScript , React, Redux , Node.js, Express, Sequelize, PostgreSQL , en constante actualización y aprendizaje. .</p>
 <!-- <p>Realice una app de forma individual llamada Dogs en la que puedes filtrar , ordenar , buscar por nombre o crear una nueva raza tambien cuenta con paginado, despues de esto realice de forma gurpual una llamada food Express en la cual puedes hacer pagos con Mercado Pago o Paypal, tambien tiene inicio de sesion con auth0 , de forma responsive, y al hacer un pago utilizamos nodemailer para la notificacion por correo , entre otras cosas </p> -->
 
 <h3 align="left">Idiomas y herramientas:</h3>
