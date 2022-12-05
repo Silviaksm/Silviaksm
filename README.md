@@ -8,7 +8,9 @@
 <!-- <p>Realice una app de forma individual llamada Dogs en la que puedes filtrar , ordenar , buscar por nombre o crear una nueva raza tambien cuenta con paginado, despues de esto realice de forma gurpual una llamada food Express en la cual puedes hacer pagos con Mercado Pago o Paypal, tambien tiene inicio de sesion con auth0 , de forma responsive, y al hacer un pago utilizamos nodemailer para la notificacion por correo , entre otras cosas </p> -->
    
 <h3> Contactame! </h3>
-Correo: sksalazarm@gmail.com<br></br>
+Correo: 
+<a href= mailto:sksalazarm@gmail.com> sksalazarm@gmail.com
+</a><br></br>
 Linkedin: www.linkedin.com/in/silviaksm
 <br></br>
 
